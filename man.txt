@@ -1,0 +1,11 @@
+
+commands:
+  ask [name of the person (excluding other players) you want to talk to] -> talk to people
+  go [insert # of the destination] -> go somewhere
+  case [# of the case you want to challenge] -> solve a case to gain bp
+  duel [name of the player you want to duel with] -> duel 
+  pick [insert item name] -> pick up items
+  check inv -> check inventory
+others:
+  quit -> quit game & save game
+

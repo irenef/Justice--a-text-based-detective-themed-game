@@ -1,0 +1,45 @@
+5
+0 Phoenix Cafe
+  You hear words in Cantonese, but you can't understand them.
+2
+sweet and sour pork
+rare candy
+2
+SE 1
+S 2
+
+1 San Antonio International Airport
+  Free Wifi!
+2
+gun
+tissue
+2
+NW 0
+S 2
+
+2 Amy's Ice Cream
+  This place is always busy.
+1
+wood
+2
+N 1
+S 3
+
+3 Mabee Dining Hall, Trinity University
+  people hate the food but like the chocolate chip cookies.
+2
+SA map
+apple
+2
+N 2
+S 4
+
+4 Riverwalk
+  romantic place..
+1
+duck
+1
+N 3
+
+
+
